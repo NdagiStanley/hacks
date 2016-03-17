@@ -1,7 +1,7 @@
 # hacks
 Python Celery (PY checkins)
 
-[![Build Status](https://semaphoreci.com/api/v1/stanmd/hacks/branches/develop/badge.svg)](https://semaphoreci.com/stanmd/hacks) [![Code Issues](https://www.quantifiedcode.com/api/v1/project/d8c3a5bb3ee84f50ba5032a7b3d9c458/badge.svg)](https://www.quantifiedcode.com/app/project/d8c3a5bb3ee84f50ba5032a7b3d9c458)
+[![Build Status](https://semaphoreci.com/api/v1/stanmd/hacks/branches/develop/badge.svg)](https://semaphoreci.com/stanmd/hacks) [![Coverage Status](https://coveralls.io/repos/github/NdagiStanley/hacks/badge.svg?branch=develop)](https://coveralls.io/github/NdagiStanley/hacks?branch=develop) [![Code Issues](https://www.quantifiedcode.com/api/v1/project/d8c3a5bb3ee84f50ba5032a7b3d9c458/badge.svg)](https://www.quantifiedcode.com/app/project/d8c3a5bb3ee84f50ba5032a7b3d9c458)
  [![Code Climate](https://codeclimate.com/github/NdagiStanley/hacks/badges/gpa.svg)](https://codeclimate.com/github/NdagiStanley/hacks) [![Issue Count](https://codeclimate.com/github/NdagiStanley/hacks/badges/issue_count.svg)](https://codeclimate.com/github/NdagiStanley/hacks) [![Code Health](https://landscape.io/github/NdagiStanley/hacks/develop/landscape.svg?style=flat)](https://landscape.io/github/NdagiStanley/hacks/develop)
 
 
